@@ -20,7 +20,7 @@
 <p>결과화면</p>
 <picture>
 <source media="(min-width: 768px)" srcset=" https://mysoar.github.io/java/20190904_2.PNG" />
-<img style="width: auto;" alt="lobster" src="https://mysoar.github.io/java/20190904_2.PNG />
+<img src="https://mysoar.github.io/java/20190904_2.PNG / alt="결과화면">
 </picture>
 </section>
 </body>
