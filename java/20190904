@@ -15,12 +15,12 @@
 <p>소스코드</p>
 <picture>
 <source media="(min-width: 768px)" srcset="https://mysoar.github.io/java/20190904_1.PNG"/>
-<img style="width: auto;" alt="lobster" src="mysoar.github.io/java/20190904_1.PNG"/>
+<img style="width: auto;" alt="lobster" src="https://mysoar.github.io/java/20190904_1.PNG"/>
 </picture>
 <p>결과화면</p>
 <picture>
-<source media="(min-width: 768px)" srcset="mysoar.github.io/java/20190904_2.PNG" />
-<img style="width: auto;" alt="lobster" src="mysoar.github.io/java/20190904_2.PNG />
+<source media="(min-width: 768px)" srcset=" https://mysoar.github.io/java/20190904_2.PNG" />
+<img style="width: auto;" alt="lobster" src="https://mysoar.github.io/java/20190904_2.PNG />
 </picture>
 </section>
 </body>
